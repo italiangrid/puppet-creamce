@@ -1,3 +1,8 @@
+2019-03-14 Paolo Andreetto <paolo.andreetto@pd.infn.it>
+
+    * Merged https://github.com/italiangrid/puppet-creamce/pull/9
+    * Merged https://github.com/italiangrid/puppet-creamce/pull/10
+
 2019-01-07 Paolo Andreetto <paolo.andreetto@pd.infn.it>
 
     * Porting to puppet 5
